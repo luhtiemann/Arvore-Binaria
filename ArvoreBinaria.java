@@ -1,3 +1,13 @@
+/*
+1. Escreva um algoritmo para inserir um elemento em uma árvore binária de busca.
+2. Escreva algoritmos para percorrer uma árvore binária nas formas préordem, inordem e
+pósordem.
+3. Escreva um algoritmo para remover o maior elemento de uma árvore binária de busca.
+4. Escreva um algoritmo para remover o menor elemento de uma árvore binária de busca.
+5. Considere que uma árvore binária de busca não possui elementos repetidos. Escreva um
+algoritmo que remova um determinado elemento com valor N da árvore.
+*/
+
 import java.util.Scanner;
 
 // Definição da classe ArvoreBinaria, que contém a árvore binária e métodos relacionados.
